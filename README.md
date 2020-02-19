@@ -1,5 +1,5 @@
 ## USF MSDS 697: Distributed Data Systems
-Final Project: Health Insurance Marketplace Using Census and Rent Cost
+Final Project: Health Insurance Marketplace Prediction Using Census and Rent Cost
 
 ###### Team Members
 * Sunny Kwong ([@kwongsunny7](https://github.com/kwongsunny7))
